@@ -1,0 +1,61 @@
+body{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+  color: white;
+}
+.linked{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.form{
+    width: 20em;
+    height: 25em;
+    border: 2px solid;
+    color: white;
+    background-color: whitesmoke;
+    margin: auto;
+}
+input{
+    width: 260px;
+    height: 23px; 
+   margin-left: 25px;
+}
+button{
+    width: 260px;
+    height: 25px; 
+   margin-left: 30px;
+   color: white;
+}
+p{
+    color: black;
+    display: -ms-inline-grid;
+    font-size: 10px;
+    text-align: center;
+}
+.new{
+    background-color: rgb(89, 89, 168);
+}
+h4{
+    color: black;
+    text-align: center;
+}
+.ok{
+    background-color: rgb(7, 7, 247);
+}
+h5{
+    color: black;
+    text-align: center;
+}
+a{
+    color: rgb(42, 42, 183);
+}
+footer{
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    margin-top: 10px;
+}
